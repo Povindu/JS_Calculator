@@ -1,0 +1,79 @@
+body{
+    background-color: #222831;
+    padding: 50px;
+    padding-top: 30px;
+}
+#footer{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #dadada;
+    text-align: center;
+    font-size: small;
+}
+#title{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #dadada;
+    text-align: center;
+    font-size: 40px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+#main{
+    background-color: #00ADB5;
+    border-radius: 30px;
+    padding:10px;
+    padding-top: 15px;
+    width: 470px;
+    height:435px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+#num_input{
+    
+    border-radius: 10px;
+    border: 0px;
+    font-weight:bold;
+    letter-spacing: 2px;
+    background-color: #dadada;
+    width: 455px;
+    height: 60px;
+    font-size: 30px;
+    margin: 5px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.button:hover{
+    opacity: 0.8;
+}
+
+#num_input:focus{
+    opacity: 0.8;
+}
+.button{
+    background-color:#393E46;
+    color:aliceblue;
+    border-radius: 5px;
+    border: 0px;
+    font-size: 30px;
+    height: 80px;
+    width:80px;
+    margin: 5px;
+}
+.num_button{
+    border-radius: 20px;
+    shape-outside: margin-box;
+    box-shadow: #222831;
+
+}
+.equal_button{
+    width: 175px;
+    border-radius: 15px;
+}
+
+/* .func_button{
+
+}
+
+.clear_button{
+    
+} */
