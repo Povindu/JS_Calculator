@@ -1,5 +1,5 @@
 body{
-    background-color: #222831;
+    background-color:#002C6A;
     padding: 50px;
     padding-top: 30px;
 }
@@ -11,14 +11,14 @@ body{
 }
 #title{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #dadada;
+    color: #F8A79B;
     text-align: center;
     font-size: 40px;
     margin: 0px;
     margin-bottom: 30px;
 }
 #main{
-    background-color: #00ADB5;
+    background-color: #E45171;
     border-radius: 30px;
     padding:10px;
     padding-top: 15px;
@@ -50,7 +50,7 @@ body{
     opacity: 0.8;
 }
 .button{
-    background-color:#393E46;
+    background-color:#F8A79B;
     color:aliceblue;
     border-radius: 5px;
     border: 0px;
